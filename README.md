@@ -33,5 +33,5 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="azure" alt="azure" width="40" height="40"/>&nbsp;                                                                                                                                                 
   </div>
                                                                                                     
-### 🔥 &nbsp; <b>My Stats <b>:<hr> [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saurav-01s&theme=dark&background=000000)](https://git.io/streak-stats)  <br>  <hr>  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurav-01s&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+### 🔥 &nbsp; <b>My Stats <b>:<hr> [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saurav-01s&theme=dark&background=000000)](https://git.io/streak-stats)  <br>  
           
